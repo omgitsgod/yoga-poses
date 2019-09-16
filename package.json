@@ -1,0 +1,25 @@
+{
+  "name": "yoga-poses",
+  "version": "1.0.0",
+  "description": "A collection of yoga poses in english/sankrit with images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omgitsgod/yogaposes.git"
+  },
+  "keywords": [
+    "yoga",
+    "poses",
+    "sanskrit",
+    "exercise",
+  ],
+  "author": "Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omgitsgod/yoga-poses/issues"
+  },
+  "homepage": "https://github.com/omgitsgod/yoga-poses#readme"
+}
