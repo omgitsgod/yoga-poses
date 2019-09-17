@@ -8,4 +8,5 @@ const poses = require('yoga-poses');
 const downward = poses[14];
 console.log(downward.english); // 'Downward-Facing Dog'
 console.log(downward.sanskrit); // 'Adho Mukha Svanasana'
+console.log(downward.svg); // '<svg>...</svg>'
 ```
