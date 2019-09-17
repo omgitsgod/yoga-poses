@@ -2,7 +2,7 @@
 
 A collection of yoga poses in english/sankrit with images
 
-# Retrieve Poses
+# Retrieve Poses:
 ```javascript
 const poses = require('yoga-poses');
 const downward = poses[14];
